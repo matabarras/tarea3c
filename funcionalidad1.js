@@ -1,1 +1,2 @@
-let nombre = luis;
+let nombre = "luis";
+let asignatura = "sistemas";
